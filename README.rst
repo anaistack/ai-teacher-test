@@ -5,7 +5,7 @@ The AI Teacher Test: Measuring the Pedagogical Ability of Blender and GPT-3 in E
    :target: https://creativecommons.org/licenses/by-nc-sa/4.0/
    :alt: License: CC BY-NC-SA 4.0
 
-.. image:: https://img.shields.io/badge/version-0.0.0-blue
+.. image:: https://img.shields.io/badge/version-1.0.0-blue
    :target: https://github.com/anaistack/ai-teacher-test/tree/main
    :alt: package version
 

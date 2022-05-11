@@ -16,7 +16,7 @@ __author__ = "Anaïs Tack"
 __credits__ = ["Anaïs Tack", "Chris Piech"]
 __copyright__ = "Copyright 2022, Anaïs Tack"
 __license__ = "CC BY NC-SA 4.0"
-__version__ = "0.0.0"
+__version__ = "1.0.0"
 __maintainer__ = "Anaïs Tack"
 __email__ = "atack@cs.stanford.edu"
 
