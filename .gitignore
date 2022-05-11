@@ -1,0 +1,13 @@
+.DS_Store
+.python-version
+
+# ignore compiled files
+*.pyc
+__pycache__/
+
+# ignore copyrighted data
+data/0_datasets/tscc/*.tsv
+data/0_datasets/uptake/uptake_data.csv
+
+# ignore downloads
+downloads/

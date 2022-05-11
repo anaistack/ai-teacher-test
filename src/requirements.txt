@@ -1,0 +1,12 @@
+# src.parlai
+openai>=0.11.4
+parlai>=1.5.1
+parse
+transformers>=4.18.0
+
+# src.stan
+numpy
+pandas
+pystan>=3.0.0
+pyyaml
+tqdm

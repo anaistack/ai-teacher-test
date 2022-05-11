@@ -1,0 +1,5 @@
+{
+    "gpt3_logit_bias": {"50256": -100},
+    "gpt3_max_tokens": 500,
+    "gpt3_echo": true
+}
