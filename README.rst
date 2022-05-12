@@ -1,5 +1,5 @@
-The AI Teacher Test: Measuring the Pedagogical Ability of Blender and GPT-3 in Educational Dialogues
-====================================================================================================
+The AI Teacher Test
+===================
 
 .. image:: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
    :target: https://creativecommons.org/licenses/by-nc-sa/4.0/
