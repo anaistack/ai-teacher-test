@@ -50,6 +50,9 @@ In order to repopulate the data, you must:
 
       python -m src.utils.repopulate -t TSCC -d data/0_datasets/tscc
       python -m src.utils.repopulate -t EduUptake -d data/0_datasets/uptake
+      
+.. note::
+   Please cite both datasets when using the data in your research. See `data/0_datasets/tscc/ <data/0_datasets/tscc>`_ and `data/0_datasets/uptake/ <data/0_datasets/uptake>`_.
 
 Method
 ------
