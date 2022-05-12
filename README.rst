@@ -97,7 +97,7 @@ Measuring Pedagogical Ability
 Citation
 --------
 
-More information can be found in `this paper <https://anaistack.github.io/papers/tack_ai_2022/>`_. 
+More information can be found in `this paper <https://anaistack.github.io/assets/pdf/tack_ai_2022.pdf>`_. 
 When using the data or code in your research or publication, please cite this paper as well.
 
 .. code:: bibtex
