@@ -1,9 +1,9 @@
 The AI Teacher Test
 ===================
 
-.. image:: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-   :target: https://creativecommons.org/licenses/by-nc-sa/4.0/
-   :alt: License: CC BY-NC-SA 4.0
+.. image:: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
+   :target: https://creativecommons.org/licenses/by-nc-nd/4.0/
+   :alt: License: CC BY-NC-ND 4.0
 
 .. image:: https://img.shields.io/badge/version-1.0.0-blue
    :target: https://github.com/anaistack/ai-teacher-test/tree/main
